@@ -14,11 +14,11 @@ I'm a Rust developer with a focus on performance and scalability.
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"/>
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"/>
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/888/888879.png"/>
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/6567/6567086.png"/>
   </span>
 </div>
 
