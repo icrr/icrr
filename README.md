@@ -10,5 +10,5 @@ I'm a Rust developer with a focus on performance and scalability.
 ## Location
 Guanambi - Bahia
 <div style="display: inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
