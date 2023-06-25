@@ -69,6 +69,6 @@ I'm a Rust developer with a focus on performance and scalability.
 </span>
 
 ### Time Zone
-<span style="display: inline-block; margin-right: 10px;">(UTC -03:00)
+<span style="display: inline-block; margin-right: 10px;">UTC -03:00
 <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/2907/2907038.png"/>
 </span>
