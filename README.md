@@ -45,7 +45,7 @@ I'm a Rust developer with a focus on performance and scalability.
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
     <a href="https://t.me/icarors" target="_blank">
-      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
+      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/354443/telegram.svg"/>
     </a>
   </span>
 
