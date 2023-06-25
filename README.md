@@ -22,13 +22,8 @@ I'm a Rust developer with a focus on performance and scalability.
       <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/>
     </a>
   </span>
-
-  <span style="display: inline-block; margin-right: 10px;">
-    <a href="URL_DO_SEU_LINK" target="_blank">
-      <img align="center" height="40" width="45" src="URL_DA_SUA_IMAGEM"/>
-    </a>
-  </span>
 </div>
+
 
 ## Location
 Guanambi - Bahia
