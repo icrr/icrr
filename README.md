@@ -9,4 +9,5 @@ I'm a Rust developer with a focus on performance and scalability.
 
 ## Location
 Guanambi - Bahia
+<img alt="Crates.io" src="https://img.shields.io/crates/l/:crate">
 
