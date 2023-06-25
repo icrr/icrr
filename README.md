@@ -27,7 +27,7 @@ I'm a Rust developer with a focus on performance and scalability.
 
 ## Location
 Guanambi - Bahia
-<img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/10452/10452430.png"/>
+<img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/6183/6183369.png"/>
 
 
 <div style="display: inline_block"><br>
