@@ -6,7 +6,7 @@ I'm a Rust developer with a focus on performance and scalability.
 ## Hard Skills
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/rust-64.png"/>
+      <img align="center" height="40" width="45" src="https://img.icons8.com/?size=1x&id=h3j2l8UuNAEt&format=gif"/>
   </span>
 
   <span style="display: inline-block;">
