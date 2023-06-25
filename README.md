@@ -5,7 +5,7 @@ I'm a Rust developer with a focus on performance and scalability.
 
 ## Contact Information
 <a href="https://t.me/icarors" target="_blank">
-  <img align="center" height="30" width="40" src="https://icons8.com.br/icon/EWzVSK2hyV9H/aplica%C3%A7%C3%A3o-telegrama"/>
+  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=512&id=63306&format=png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank">
