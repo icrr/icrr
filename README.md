@@ -6,7 +6,7 @@ I'm a Rust developer with a focus on performance and scalability.
 ## Hard Skills
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+      <img align="center" height="40" width="45" src="<i class="devicon-rust-plain"></i>"/>
   </span>
 
   <span style="display: inline-block;">
