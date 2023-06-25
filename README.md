@@ -5,11 +5,11 @@ I'm a Rust developer with a focus on performance and scalability.
 
 ## Contact Information
 <div style="background-color: #f0f0f0; padding: 10px;">
-  <a href="https://t.me/icarors" target="_blank" class="contact-link">
+  <a href="https://t.me/icarors" target="_blank" style="margin-right: 10px;">
     <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank" class="contact-link">
+  <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank" style="margin-right: 10px;">
     <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"/>
   </a>
 
@@ -17,8 +17,6 @@ I'm a Rust developer with a focus on performance and scalability.
     <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/>
   </a>
 </div>
-
-
 
 ## Location
 Guanambi - Bahia
