@@ -1,9 +1,9 @@
-# Ícaro Souza Azevedo Lopes
+## Ícaro Souza Azevedo Lopes
 
-## About Me
+### About Me
 I'm a Rust developer with a focus on performance and scalability.
 
-## Hard Skills
+### Hard Skills
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
       <img align="center" height="40" width="45" src="https://img.icons8.com/?size=1x&id=t7vIvDXazOGO&format=png"/>
@@ -22,7 +22,7 @@ I'm a Rust developer with a focus on performance and scalability.
   </span>
 </div>
 
-# Soft Skills
+### Soft Skills
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
       <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/3696/3696589.png"/>
@@ -41,7 +41,7 @@ I'm a Rust developer with a focus on performance and scalability.
   </span>
 </div>
 
-## Contact Information
+### Contact Information
 <div style="background-color: #f0f0f0; padding: 10px;">
   <span style="display: inline-block; margin-right: 10px;">
     <a href="https://t.me/icarors" target="_blank">
@@ -63,7 +63,7 @@ I'm a Rust developer with a focus on performance and scalability.
 </div>
 
 
-## Location
+### Location
 <span style="display: inline-block; margin-right: 10px;">Guanambi - Bahia
 <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/7004/7004211.png"/>
 </span>
