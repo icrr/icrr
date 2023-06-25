@@ -13,7 +13,7 @@ I'm a Rust developer with a focus on performance and scalability.
 </a>
 
 <a href="mailto:sicaro800@gmail.com" target="_blank">
-  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=1x&id=Y2GfpkgYNp42&format=png"/>
+  <img align="center" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"/>
 </a>
 
 ## Location
