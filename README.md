@@ -9,7 +9,7 @@ I'm a Rust developer with a focus on performance and scalability.
 </a>
 
 <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://icons8.com.br/icon/13930/linkedin"/>
 </a>
 
 <a href="mailto:sicaro800@gmail.com" target="_blank">
