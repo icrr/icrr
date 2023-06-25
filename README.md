@@ -20,9 +20,26 @@ I'm a Rust developer with a focus on performance and scalability.
   <span style="display: inline-block; margin-right: 10px;">
       <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/888/888879.png"/>
   </span>
-  
 </div>
 
+# Soft Skills
+<div style="background-color: #f0f0f0; padding: 10px;">
+  <span style="display: inline-block; margin-right: 10px;">
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/3696/3696589.png"/>
+  </span>
+
+  <span style="display: inline-block;">
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/10672/10672410.png"/>
+  </span>
+
+  <span style="display: inline-block; margin-right: 10px;">
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"/>
+  </span>
+
+  <span style="display: inline-block; margin-right: 10px;">
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/888/888879.png"/>
+  </span>
+</div>
 
 ## Contact Information
 <div style="background-color: #f0f0f0; padding: 10px;">
