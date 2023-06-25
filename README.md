@@ -51,13 +51,13 @@ I'm a Rust developer with a focus on performance and scalability.
 
   <span style="display: inline-block;">
     <a href="mailto:sicaro800@gmail.com" target="_blank">
-      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/452213/gmail.svg"/>
+      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/349378/gmail.svg"/>
     </a>
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
     <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank">
-      <img align="center" height="40" width="60" src="https://www.svgrepo.com/show/353999/linkedin.svg"/>
+      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg"/>
     </a>
   </span>
 </div>
