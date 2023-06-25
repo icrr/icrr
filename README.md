@@ -19,7 +19,7 @@ I'm a Rust developer with a focus on performance and scalability.
 
   <span style="display: inline-block; margin-right: 10px;">
     <a href="https://www.linkedin.com/in/%C3%ADcaro-lopes-854705217/" target="_blank">
-      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"/>
+      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
     </a>
   </span>
 </div>
