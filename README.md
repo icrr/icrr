@@ -1,7 +1,7 @@
 ## Ícaro Souza Azevedo Lopes
 
 ### About Me
-I'm a Rust developer with a focus on performance and scalability.
+I'm a Rust developer with a focus on performance and scalability. I take pride in my achievements thus far, acknowledging that success is never a solitary endeavor.
 
 ### Hard Skills
 <div style="background-color: #f0f0f0; padding: 10px;">
