@@ -9,6 +9,6 @@ I'm a Rust developer with a focus on performance and scalability.
 
 ## Location
 Guanambi - Bahia
-<div style="display: inline block"><br>
+<div style="display: inline_block"><br>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
