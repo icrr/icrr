@@ -18,7 +18,7 @@ I'm a Rust developer with a focus on performance and scalability.
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/354004/linux-tux.svg"/>
+      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/448236/linux.svg"/>
   </span>
 </div>
 
