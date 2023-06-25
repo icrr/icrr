@@ -70,7 +70,10 @@ I take pride in my achievements thus far, acknowledging that success is never a 
 </span> <br>
 <span style="display: inline-block; margin-right: 10px;">UTC -03:00
 <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/2907/2907038.png"/>
+<img align="center" height="40" width="45" src="https://www.svgrepo.com/show/227874/christ-the-redeemer-brazil.svg"/>
 </span>
+
+
 
 
 
