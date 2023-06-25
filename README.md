@@ -10,7 +10,7 @@ I'm a Rust developer with a focus on performance and scalability.
   </span>
 
   <span style="display: inline-block;">
-      <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"/>
+      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
