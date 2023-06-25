@@ -11,7 +11,7 @@ I'm a Rust developer with a focus on performance and scalability.
 Guanambi - Bahia
 <div style="display: inline_block"><br>
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
-  <img align="center" heigh="30" width="40" src="https://icons8.com.br/icon/vtr2UMMlkCpS/gmail"/>
+  <img align="center" heigh="30" width="40" src="https://img.icons8.com/?size=1x&id=Y2GfpkgYNp42&format=png"/>
 </div>
 
 <div style="display: inline_block"><br>
