@@ -64,7 +64,7 @@ I take pride in my achievements thus far, acknowledging that success is never a 
 </div>
 
 
-### Location
+### Location...
 <span style="display: inline-block; margin-right: 10px;">Guanambi - Bahia
 <img align="center" height="40" width="45" src="https://cdn-icons-png.flaticon.com/128/7004/7004211.png"/>
 <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/227874/christ-the-redeemer-brazil.svg"/>
