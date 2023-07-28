@@ -10,10 +10,6 @@ I take pride in my achievements thus far, acknowledging that success is never a 
       <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/374056/rust.svg"/>
   </span>
 
-  <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/373635/go-gopher.svg"/>
-  </span>
-
   <span style="display: inline-block;">
       <img align="center" height="40" width="45" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
   </span>
