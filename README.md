@@ -11,7 +11,7 @@ I take pride in my achievements thus far, acknowledging that success is never a 
   </span>
 
   <span style="display: inline-block; margin-right: 10px;">
-      <img align="center" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380pxC_Programming_Language.svg.png?20201031132917"/>
+      <img align="center" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg"/>
   </span>
 
   <span style="display: inline-block;">
